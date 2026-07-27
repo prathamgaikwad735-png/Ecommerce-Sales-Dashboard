@@ -2,15 +2,22 @@
                                           Excel Dashboard Project | Sales, Quantity & Profit Analysis (2022-2024)
                                           
 1. Key Business Questions (KPIs)
+2. 
 Before building the dashboard, the following business questions were defined to guide the analysis:
+
 •	Which products generate the highest total sales and total quantity sold?
+
 •	How do sales trends change month-by-month across the year?
+
 •	Which region contributes the highest profit, and how is profit distributed across regions?
+
 •	How does performance differ across product categories - Accessories, Electronics, and Office?
+
 •	How have sales, quantity, and profit changed year-over-year from 2022 to 2024?
+
 •	Which months consistently show low or high sales, indicating seasonal patterns?
 
-3. Process & Methodology
+4. Process & Methodology
 Step 1: Data Collection
 Raw transactional data was used, containing Order Date, Product Name, Category, Region, Quantity, Sales, and Profit across 3,500 records spanning January 2022 to December 2024.
 Step 2: Data Cleaning & Preparation
@@ -21,13 +28,13 @@ Step 4: Dashboard Design
 PivotCharts (Column, Bar, Line, Doughnut) were built from the PivotTables, and an Order Date Timeline and Category Slicer were added for interactive filtering.
 Step 5: Insight Generation
 Each year (2022, 2023, 2024) was filtered individually across each category to identify top-performing products, seasonal trends, and top-profit regions.
-4. Dashboard Overview
+5. Dashboard Overview
 The dashboard provides a single-page interactive view of overall e-commerce performance, filterable by Order Date (Year) and Category.
 
     <img width="633" height="250" alt="image" src="https://github.com/user-attachments/assets/1fc75db6-8d89-46ba-a769-309f4b7db6c8" />
     <img width="677" height="55" alt="image" src="https://github.com/user-attachments/assets/5c8c1332-a793-4d7f-9147-0e6728489101" />
 
-5. Insights 
+6. Insights 
 
 2022
 Accessories: Keyboard led total sales, while Mouse had the highest quantity sold. July recorded the lowest sales, picking up in August, with another peak in May. East Zone earned the highest profit share (27%).
