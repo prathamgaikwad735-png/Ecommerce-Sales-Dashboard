@@ -2,6 +2,7 @@
                                           Excel Dashboard Project | Sales, Quantity & Profit Analysis (2022-2024)
                                           
 1. Key Business Questions (KPIs)
+
 2.Before building the dashboard, the following business questions were defined to guide the analysis:
 
 •	Which products generate the highest total sales and total quantity sold?
