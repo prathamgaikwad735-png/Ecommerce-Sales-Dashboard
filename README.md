@@ -39,17 +39,17 @@ Each year (2022, 2023, 2024) was filtered individually across each category to i
 
 # Insights
 ### 2022
-## Accessories: Keyboard led total sales, while Mouse had the highest quantity sold. July recorded the lowest sales, picking up in August, with another peak in May. East Zone earned the highest profit share (27%).
-## Electronics: Camera led total sales and Tablet led total quantity. Sales dipped in February and peaked in October. East Zone had the highest profit.
-## Office: Printer (the only product) saw strong sales in May, with East Zone generating the highest profit.
+- Accessories: Keyboard led total sales, while Mouse had the highest quantity sold. July recorded the lowest sales, picking up in August, with another peak in May. East Zone earned the highest profit share (27%).
+- Electronics: Camera led total sales and Tablet led total quantity. Sales dipped in February and peaked in October. East Zone had the highest profit.
+- Office: Printer (the only product) saw strong sales in May, with East Zone generating the highest profit.
 ### 2023
-## Accessories: Monitor led total sales, with a peak season across July-September. Mouse and Monitor recorded nearly equal quantity sold. West Zone had the highest profit.
-## Electronics: Camera led both total sales and total quantity. Sales peaked in August and dropped to the lowest in October. West and East Zones tied for the highest profit.
-## Office: Printer sales were lowest in April and highest in November, with South Zone leading in profit.
+- Accessories: Monitor led total sales, with a peak season across July-September. Mouse and Monitor recorded nearly equal quantity sold. West Zone had the highest profit.
+-  Electronics: Camera led both total sales and total quantity. Sales peaked in August and dropped to the lowest in October. West and East Zones tied for the highest profit.
+-  Office: Printer sales were lowest in April and highest in November, with South Zone leading in profit.
 ### 2024
-## Accessories: Monitor led total sales and quantity (666 units), with a May sales peak. West and East Zones tied for the highest profit.
-## Electronics: Camera and Smartphone led sales, with a strong March-May stretch. Smartwatch led total quantity, and West Zone had the highest profit.
-## Office: Printer sales rose in March, dipped in April-May, then recovered strongly from July through October, with East Zone leading in profit.
+- Accessories: Monitor led total sales and quantity (666 units), with a May sales peak. West and East Zones tied for the highest profit.
+- Electronics: Camera and Smartphone led sales, with a strong March-May stretch. Smartwatch led total quantity, and West Zone had the highest profit.
+- Office: Printer sales rose in March, dipped in April-May, then recovered strongly from July through October, with East Zone leading in profit.
 ### Overall Takeaway
 Across all three years, Camera and Monitor consistently emerged as top-performing products in Electronics and Accessories respectively, while East and West Zones alternated as the leading profit-generating regions. Sales showed a recurring seasonal dip mid-year (July/October) across categories, useful for planning inventory and promotions.
 
