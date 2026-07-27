@@ -27,5 +27,11 @@ PivotCharts (Column, Bar, Line, Doughnut) were built from the PivotTables, and a
 Each year (2022, 2023, 2024) was filtered individually across each category to identify top-performing products, seasonal trends, and top-profit regions.
 
 
+- Dashboard Interaction <a href="https://github.com/prathamgaikwad735-png/Ecommerce-Sales-Dashboard/tree/main/Dashboard%20Image">View Dashboard<a/>
+
+# Dashboard Overview
+The dashboard provides a single-page interactive view of overall e-commerce performance, filterable by Order Date (Year) and Category
+
+
 
 
