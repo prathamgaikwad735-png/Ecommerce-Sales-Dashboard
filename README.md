@@ -1,10 +1,10 @@
-#Ecommerce Sales Dashboard
+# Ecommerce Sales Dashboard
 ### Excel Dashboard Project | Sales, Quantity & Profit Analysis (2022-2024)
 
 ## Dataset Used
 - <a href="https://github.com/prathamgaikwad735-png/Ecommerce-Sales-Dashboard/blob/main/ecommerce_sales_data%20(2).xlsx">Dataset</a>
 
- Key Business Questions (KPIs)
+# Key Business Questions (KPIs)
 ### Before building the dashboard, the following business questions were defined to guide the analysis:
 -	Which products generate the highest total sales and total quantity sold?
 -	How do sales trends change month-by-month across the year?
