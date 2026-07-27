@@ -24,10 +24,10 @@ Each year (2022, 2023, 2024) was filtered individually across each category to i
 4. Dashboard Overview
 The dashboard provides a single-page interactive view of overall e-commerce performance, filterable by Order Date (Year) and Category.
 
-                        <img width="633" height="250" alt="image" src="https://github.com/user-attachments/assets/1fc75db6-8d89-46ba-a769-309f4b7db6c8" />
-                        <img width="677" height="55" alt="image" src="https://github.com/user-attachments/assets/5c8c1332-a793-4d7f-9147-0e6728489101" />
+    <img width="633" height="250" alt="image" src="https://github.com/user-attachments/assets/1fc75db6-8d89-46ba-a769-309f4b7db6c8" />
+    <img width="677" height="55" alt="image" src="https://github.com/user-attachments/assets/5c8c1332-a793-4d7f-9147-0e6728489101" />
 
-5. Insights
+5. Insights 
 2022
 Accessories: Keyboard led total sales, while Mouse had the highest quantity sold. July recorded the lowest sales, picking up in August, with another peak in May. East Zone earned the highest profit share (27%).
 Electronics: Camera led total sales and Tablet led total quantity. Sales dipped in February and peaked in October. East Zone had the highest profit.
@@ -46,7 +46,7 @@ Office: Printer sales rose in March, dipped in April-May, then recovered strongl
 Overall Takeaway
 Across all three years, Camera and Monitor consistently emerged as top-performing products in Electronics and Accessories respectively, while East and West Zones alternated as the leading profit-generating regions. Sales showed a recurring seasonal dip mid-year (July/October) across categories, useful for planning inventory and promotions.
 
-7. Conclusion
+7. Conclusion 
 This dashboard turned three years of raw transactional data (2022-2024) into a single, interactive view of e-commerce performance. Filtering by year and category consistently highlighted Camera and Monitor as the strongest products in Electronics and Accessories, while Printer remained the steady performer in Office. Profit leadership shifted over time - from East Zone in 2022, to West Zone in 2023-2024 - suggesting changing regional demand that could guide future stock allocation and marketing focus.
 The recurring mid-year sales dip (July/October depending on category) points to a seasonal pattern worth planning around, whether through targeted promotions or inventory adjustments ahead of those months.
 Overall, the project demonstrates how PivotTables, PivotCharts, and slicers/timelines in Excel can be combined to build a decision-ready dashboard - allowing quick, filtered insights without needing to touch the raw data directly. As more data becomes available (including 2025), the same structure can be extended without redesigning the dashboard.
