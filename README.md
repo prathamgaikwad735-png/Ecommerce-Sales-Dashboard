@@ -1,3 +1,3 @@
-   # Ecommerce Sales Dashboard
-Excel Dashboard Project | Sales, Quantity & Profit Analysis (2022-2024)
+# Ecommerce Sales Dashboard
+## Excel Dashboard Project | Sales, Quantity & Profit Analysis (2022-2024)
 
