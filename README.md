@@ -30,7 +30,7 @@ Each year (2022, 2023, 2024) was filtered individually across each category to i
 - Dashboard Interaction <a href="https://github.com/prathamgaikwad735-png/Ecommerce-Sales-Dashboard/tree/main/Dashboard%20Image">View Dashboard<a/>
 
 # Dashboard Overview
-The dashboard provides a single-page interactive view of overall e-commerce performance, filterable by Order Date (Year) and Category
+### The dashboard provides a single-page interactive view of overall e-commerce performance, filterable by Order Date (Year) and Category
 
 <img width="629" height="240" alt="image" src="https://github.com/user-attachments/assets/4dca4f89-84b4-48b5-b1e5-a5aed0f00732" />
 
