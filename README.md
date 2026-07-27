@@ -1,6 +1,7 @@
                                                            Ecommerce Sales Dashboard
                                           Excel Dashboard Project | Sales, Quantity & Profit Analysis (2022-2024)
                                           
+                                          
 1. Key Business Questions (KPIs)
 
 2.Before building the dashboard, the following business questions were defined to guide the analysis:
@@ -60,7 +61,8 @@ Office: Printer sales rose in March, dipped in April-May, then recovered strongl
 Overall Takeaway
 Across all three years, Camera and Monitor consistently emerged as top-performing products in Electronics and Accessories respectively, while East and West Zones alternated as the leading profit-generating regions. Sales showed a recurring seasonal dip mid-year (July/October) across categories, useful for planning inventory and promotions.
 
-7. Conclusion 
+7. Conclusion
+
 This dashboard turned three years of raw transactional data (2022-2024) into a single, interactive view of e-commerce performance. Filtering by year and category consistently highlighted Camera and Monitor as the strongest products in Electronics and Accessories, while Printer remained the steady performer in Office. Profit leadership shifted over time - from East Zone in 2022, to West Zone in 2023-2024 - suggesting changing regional demand that could guide future stock allocation and marketing focus.
 The recurring mid-year sales dip (July/October depending on category) points to a seasonal pattern worth planning around, whether through targeted promotions or inventory adjustments ahead of those months.
 Overall, the project demonstrates how PivotTables, PivotCharts, and slicers/timelines in Excel can be combined to build a decision-ready dashboard - allowing quick, filtered insights without needing to touch the raw data directly. As more data becomes available (including 2025), the same structure can be extended without redesigning the dashboard.
