@@ -2,8 +2,7 @@
                                           Excel Dashboard Project | Sales, Quantity & Profit Analysis (2022-2024)
                                           
 1. Key Business Questions (KPIs)
-2. 
-Before building the dashboard, the following business questions were defined to guide the analysis:
+2.Before building the dashboard, the following business questions were defined to guide the analysis:
 
 •	Which products generate the highest total sales and total quantity sold?
 
@@ -18,23 +17,29 @@ Before building the dashboard, the following business questions were defined to 
 •	Which months consistently show low or high sales, indicating seasonal patterns?
 
 4. Process & Methodology
+
 Step 1: Data Collection
 Raw transactional data was used, containing Order Date, Product Name, Category, Region, Quantity, Sales, and Profit across 3,500 records spanning January 2022 to December 2024.
+
 Step 2: Data Cleaning & Preparation
 The data was checked for consistency in date formats, category labels, and numeric fields before analysis.
+
 Step 3: Pivot Table Analysis
 Multiple PivotTables were created to summarize Sales, Quantity, and Profit by Product, Month, and Region.
+
 Step 4: Dashboard Design
 PivotCharts (Column, Bar, Line, Doughnut) were built from the PivotTables, and an Order Date Timeline and Category Slicer were added for interactive filtering.
+
 Step 5: Insight Generation
 Each year (2022, 2023, 2024) was filtered individually across each category to identify top-performing products, seasonal trends, and top-profit regions.
-5. Dashboard Overview
+
+6. Dashboard Overview
 The dashboard provides a single-page interactive view of overall e-commerce performance, filterable by Order Date (Year) and Category.
 
     <img width="633" height="250" alt="image" src="https://github.com/user-attachments/assets/1fc75db6-8d89-46ba-a769-309f4b7db6c8" />
     <img width="677" height="55" alt="image" src="https://github.com/user-attachments/assets/5c8c1332-a793-4d7f-9147-0e6728489101" />
 
-6. Insights 
+7. Insights 
 
 2022
 Accessories: Keyboard led total sales, while Mouse had the highest quantity sold. July recorded the lowest sales, picking up in August, with another peak in May. East Zone earned the highest profit share (27%).
@@ -42,8 +47,8 @@ Electronics: Camera led total sales and Tablet led total quantity. Sales dipped 
 Office: Printer (the only product) saw strong sales in May, with East Zone generating the highest profit.
 
 2023
-Accessories: Monitor led total sales, with a peak season across July-September. Mouse and Monitor recorded nearly equal quantity sold. West Zone had the highest profit.
-Electronics: Camera led both total sales and total quantity. Sales peaked in August and dropped to the lowest in October. West and East Zones tied for the highest profit.
+Accessories: Monitor led total sales, with a peak season across July-September. Mouse and Monitor recorded nearly equal quantity sold. West Zone had the highest profit.        
+Electronics: Camera led both total sales and total quantity. Sales peaked in August and dropped to the lowest in October. West and East Zones tied for the highest profit.       
 Office: Printer sales were lowest in April and highest in November, with South Zone leading in profit.
 
 2024
