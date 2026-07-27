@@ -28,6 +28,7 @@ The dashboard provides a single-page interactive view of overall e-commerce perf
     <img width="677" height="55" alt="image" src="https://github.com/user-attachments/assets/5c8c1332-a793-4d7f-9147-0e6728489101" />
 
 5. Insights 
+
 2022
 Accessories: Keyboard led total sales, while Mouse had the highest quantity sold. July recorded the lowest sales, picking up in August, with another peak in May. East Zone earned the highest profit share (27%).
 Electronics: Camera led total sales and Tablet led total quantity. Sales dipped in February and peaked in October. East Zone had the highest profit.
